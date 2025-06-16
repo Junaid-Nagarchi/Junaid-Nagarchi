@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Debelopment
 - 🌱 I’m currently learning MERN STACK
 - 📫 How to reach me junaidnagarchi46@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: automobile enthusiast but a CSE guy
 
 <!---
