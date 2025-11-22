@@ -1,55 +1,144 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Junaid+Nagarchi;Computer+Engineering+Student+%7C+Goa;B.E+2025+%40+PCCE+%7C+Full-Stack+%2B+UI%2FUX;Building+Smart+Solutions+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Profile README -->
+
+<h1 align="center">Hi 👋, I'm Junaid Nagarchi</h1>
 
 <p align="center">
-  <a href="https://junaid-nagarchi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-%2300BCD4?style=for-the-badge&logo=vercel" /></a>
-  <a href="mailto:junaidnagarchi46@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/junaid-nagarchi"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230072B1?style=for-the-badge&logo=linkedin" /></a>
+  Computer Engineering Graduate • Web & UI/UX Developer • Agritech & Automotive Enthusiast
 </p>
-🚀 About Me
 
-🔭 Final-year B.E. Computer Engineering student at Padre Conceição College of Engineering, Goa (2022–2025)
-🌱 Passionate about Full-Stack Web Development, UI/UX Design, Machine Learning, and Agritech
-💡 Currently building a Smart Agritech Crop Recommendation System using ISRO satellite data and ML
-📍 Based in Margao, Goa | Love beaches, automobiles & coding at 2 AM ☕
-🎨 I design beautiful interfaces with Figma and bring them to life with code
+---
 
-🛠️ Tech Stack & Tools
-textLanguages    : C++ • Python • Java • JavaScript • HTML/CSS
-Frontend         : React (learning) • Bootstrap • Figma
-Backend & DB     : Node.js (basics) • MySQL • REST APIs
-Tools            : Git/GitHub • Docker • WordPress • Postman
-Other            : IoT • Data Science • Unity (AR basics)
+## 👨‍💻 About Me
 
-  Python
-  JavaScript
-  React
-  Docker
-  Figma
-  MySQL
+- 🎓 **B.E. in Computer Engineering** – Padre Conceição College of Engineering, Goa (2022–2025)  
+- 💻 Interested in **Full-Stack Web Development, UI/UX Design, Machine Learning & Agritech**
+- 🌱 Currently exploring:
+  - Smart **Agritech Crop Recommendation** systems (ML + satellite/geo data)
+  - Better UX for web apps (designing in **Figma**, building with **HTML/CSS/JS**)
+- 🧩 I enjoy turning ideas into real projects – from **doctor-patient portals** to **outdoor adventure logs**
+- 🚗 Outside tech, I love **automobiles**, tinkering with vehicles, and exploring new places
+- 📍 Based in Margao, Goa, India  
 
-🌟 Featured Projects
-ProjectDescriptionTech StackLink🌾 Smart Agritech Crop RecommendationML + ISRO satellite data platform for optimal crop suggestion & soil healthPython, ML, ISRO API, ReactRepo🏔️ Outdoor Adventure LogLog hikes, camping & travels with photos, weather & ratingsMERN, MySQLRepo🩺 PrimeCare Doctor-Patient PortalAppointment booking, video consultation & medical recordsReact, Node.js, MySQLRepo☀️ Real-time Weather AppLive weather using OpenWeatherMap APIJavaScript, REST APILive
-🏆 Achievements & Certifications
+---
 
-NPTEL – Programming using Python (IIT Madras)
-NPTEL – Introduction to IoT by Prof. Sudip Misra (IIT Kharagpur)
-IBM – Docker Essentials Badge
-HP LIFE – Data Science & Analytics
-3rd Place – Final Presentation (Fluxatic Global UI/UX Internship, 2024)
+## 🛠 Tech Stack
 
-📊 GitHub Stats
+**Languages**
+- C++ • Python • Java  
+- JavaScript • HTML • CSS  
 
-  https://github-readme-stats.vercel.app/api?username=Junaid-Nagarchi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
-  https://github-readme-streak-stats.herokuapp.com/?user=Junaid-Nagarchi&theme=tokyonight
+**Web & Frameworks**
+- React (basics)  
+- Bootstrap • WordPress  
 
+**Databases & Backend**
+- MySQL  
+- REST APIs  
 
-  https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-Nagarchi&layout=compact&theme=tokyonight&langs_count=8
+**Tools & Platforms**
+- Git & GitHub  
+- Docker  
+- Postman  
 
-📬 Let's Connect!
+**Design & Other**
+- Figma (UI/UX)  
+- Basic IoT & AR (Unity + Vuforia)
 
-  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-  https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+---
 
+## 🚀 Featured Projects
 
-  profile views
+### 🌾 Smart Agritech Crop Recommendation System
+A platform that uses **machine learning** and **ISRO satellite data** to recommend optimal crops and support better farming decisions.  
+- 🔧 *Tech*: Python, ML concepts, data preprocessing & analytics  
+- 🎯 *Focus*: Agritech, usability for farmers  
+
+---
+
+### 🏕 Outdoor Adventure Log – *OutdoorXplorer*  
+Platform for outdoor enthusiasts to log **hikes, camping trips, and travels** with location, photos, weather, and ratings. :contentReference[oaicite:1]{index=1}  
+- 🔧 *Tech*: Web stack (HTML/CSS/JS), DB concepts  
+- 🎯 *Focus*: Clean UI, easy cataloguing & reminiscing  
+- 🔗 Repo: [OutdoorXplorer](https://github.com/Junaid-Nagarchi/OutdoorXplorer)
+
+---
+
+### 🏥 PrimeCare – Doctor–Patient Portal  
+An online platform for **booking appointments**, accessing **medical history**, and enabling **video consultations** between doctors & patients. :contentReference[oaicite:2]{index=2}  
+- 🔧 *Tech*: HTML, CSS, JS, MySQL concepts  
+- 🎯 *Focus*: Simple patient journey, structured data  
+- 🔗 Repo: [PrimeCare](https://github.com/Junaid-Nagarchi/PrimeCare)
+
+---
+
+### ☀️ Real-time Weather App  
+A web app that fetches and displays **real-time weather data** using the OpenWeatherMap API. :contentReference[oaicite:3]{index=3}  
+- 🔧 *Tech*: JavaScript, REST API integration  
+- 🎯 *Focus*: API integration, async JS, dynamic UI updates  
+
+---
+
+### 🚘 CarSpace (Automotive UI Project)
+A front-end project themed around **automobiles**, focusing on layout, responsiveness, and visual design.  
+- 🔧 *Tech*: HTML, CSS  
+- 🎯 *Focus*: Clean landing page, component-based UI  
+- 🔗 Repo: [CarSpace](https://github.com/Junaid-Nagarchi/CarSpace)
+
+---
+
+## 🏅 Certifications & Achievements
+
+- 🎓 **NPTEL – Computing Using Python** (IIT Madras) :contentReference[oaicite:4]{index=4}  
+- 🌐 **NPTEL – Introduction to IoT** by Prof. Sudip Misra (IIT Kharagpur) :contentReference[oaicite:5]{index=5}  
+- 📊 **Data Science & Analytics – HP LIFE**  
+- 🐳 **Docker Essentials** – IBM Developer Skills Network  
+- 🥉 **3rd Place** – Final Team Presentation, *Fluxatic Global UI/UX Internship (2024)*  
+
+---
+
+## 💼 Experience Highlights
+
+### Branding & UI/UX Intern – Fluxatic Global, Goa (Jun–Jul 2024)
+- Created a **UI Component Library** and designed **user flows** for the *WanderTrails* travel app  
+- Applied **UX laws**, **Gestalt principles**, and **color theory** to improve usability  
+- Collaborated with mentors & team, iterated on designs, and presented final work  
+
+### UI/UX & Web Development Intern – HexCoderz, Vasco (Sept–Nov 2021)
+- Learned fundamentals of **UI/UX** and implemented them in real web designs  
+- Designed & developed a web app for **electronics & e-waste trading**  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Junaid-Nagarchi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Junaid's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junaid-Nagarchi&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-Nagarchi&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/junaid-nagarchi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:junaidnagarchi46@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Junaid-Nagarchi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+> 💬 *“Always building, always learning – from clean UI to smarter systems.”*
